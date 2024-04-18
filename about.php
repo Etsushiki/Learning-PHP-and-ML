@@ -16,6 +16,7 @@
 
 
 <?php
+# comment
     require  "blocks/footer.php";
 ?>
 
