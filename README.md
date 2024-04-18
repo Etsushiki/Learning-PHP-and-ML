@@ -9,3 +9,6 @@
 
 Необходимо скачать датасет в папку в Learning-PHP-and-ML\Data proccessing\CSV dataset с облака:
 https://drive.google.com/drive/folders/16SCbeYJYQeVyjrzDjMezEhLzf2-UTIYn?usp=sharing
+
+Дальнейшие планы:
+Увеличивать количество геометрий и начальных скоростей, для обучения модели ML (В данный момент модель обучается на двух начальных скоростях и двух геометриях)
